@@ -1,4 +1,5 @@
 import java.util.*;
+import java.util.Scanner;
 
 abstract class Delivery {
     double weight;

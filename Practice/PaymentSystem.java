@@ -1,5 +1,5 @@
 import java.util.*;
-
+import java.util.Scanner;
 abstract class Payment {
     double amount;
 
